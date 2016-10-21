@@ -1,0 +1,31 @@
+{
+  "name": "dateutil",
+  "version": "1.0.0",
+  "description": "Java Script Nodejs module for Date Utility function - Most common date related operations are implemented.",
+  "main": "dateutil.js",
+  "scripts": {
+    "test": "node test.js",
+    "doc": "jsdoc dateutil.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bchekuri/dateutil.git"
+  },
+  "keywords": [
+    "date",
+    "utility",
+    "dateutil",
+    "adddate",
+    "adddays",
+    "comparedate"
+  ],
+  "author": "bchekuri",
+  "license": "SEE LICENSE IN README.md",
+  "bugs": {
+    "url": "https://github.com/bchekuri/dateutil/issues"
+  },
+  "dependencies": {
+	  "util" : "*"
+  },
+  "homepage": "https://github.com/bchekuri/dateutil#readme"
+}
